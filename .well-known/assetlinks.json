@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thecodebench.tengaticket",
+      "sha256_cert_fingerprints": [
+        "29:AF:42:A1:DF:AD:3A:73:43:53:2D:CF:E9:90:36:78:F2:11:94:AE:D8:62:17:75:18:65:F6:4D:8A:27:F7:04"
+      ]
+    }
+  }
+]
